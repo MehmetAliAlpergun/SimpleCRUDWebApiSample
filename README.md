@@ -19,13 +19,13 @@ See the examples here:
 
 ``` https://localhost:44339/api/products?keyword=A&MinQuantity=100&MaxQuantity=2000 ```
 
-![ASPNETCOREWebAPIGET](./.github/getquery.png)
+![ASPNETCOREWebAPIGET](./.github/getquery.PNG)
 
 ## GET Single Product
 
 ``` https://localhost:44339/api/products/5 ```
 
-![ASPNETCOREWebAPIGET](./.github/getsingle.png)
+![ASPNETCOREWebAPIGET](./.github/getsingle.PNG)
 
 ## POST a Product
 
@@ -40,7 +40,7 @@ See the examples here:
   }
 ```
 
-![ASPNETCOREWebAPIGET](./.github/post.png)
+![ASPNETCOREWebAPIGET](./.github/post.PNG)
 
 ## PUT a Product
 
@@ -55,7 +55,7 @@ See the examples here:
 }
 ```
 
-![ASPNETCOREWebAPIGET](./.github/put.png)
+![ASPNETCOREWebAPIGET](./.github/put.PNG)
 
 
 ## DELETE a Product
@@ -63,7 +63,7 @@ See the examples here:
 ``` https://localhost:44339/api/products/6 ```
 
 
-![ASPNETCOREWebAPIGET](./.github/delete.png)
+![ASPNETCOREWebAPIGET](./.github/delete.PNG)
 
 
 
