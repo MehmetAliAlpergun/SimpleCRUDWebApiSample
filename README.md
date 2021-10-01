@@ -2,7 +2,7 @@
 
 In this repository you can find a simple ASP.NET Core application with rest endpoint. Also using Prometheus Metrics to monitoring.
 
-This repository contains a controller which is dealing with Products. You can GET/POST/PUT/ELETE them.
+This repository contains a controller which is dealing with Products. You can GET/POST/PUT/DELETE them.
 
 
 
